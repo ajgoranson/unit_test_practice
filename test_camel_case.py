@@ -3,7 +3,7 @@ from unittest import TestCase
 
 import camel_case
 
-
+# Adding a test class
 class TestCamelCase(TestCase):
 
     def test_camelcase_sentence(self):
